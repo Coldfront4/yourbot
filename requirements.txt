@@ -11,4 +11,3 @@ lumibot
 APScheduler
 numpy
 pandas
-websockets==15.0.1
