@@ -1,0 +1,5 @@
+2025-04-15 19:20:01 | INFO | config | Configuration loaded successfully.
+2025-04-15 19:20:01 | INFO | model | No pretrained adjustment model found; using fresh weights.
+2025-04-15 19:20:26 | INFO | finbert_utils | FinBERT model loaded successfully.
+2025-04-15 19:20:26 | INFO | strategy | Loaded PPO agent successfully.
+2025-04-15 19:20:44 | ERROR | bot_gui | Backtest error: signal only works in main thread of the main interpreter
